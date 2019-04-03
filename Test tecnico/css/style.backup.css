@@ -1,0 +1,160 @@
+*{
+    padding: 0px;
+    margin: 0px; 
+}
+
+body {
+    background: #E0E0E0;
+}
+
+header {   
+    background: #415e9b;
+    height: 85px;
+}
+
+.tit-FB{
+    color: white;
+    font-size: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 350px;
+    font-style: italic;
+
+}
+
+.menu{
+    margin: 5px;
+    float: left;
+    width: 20%;
+    padding-left: 350px;
+}
+.menu h3{
+    margin: 5px;
+}
+.menu ul{
+    margin: 5px;
+}
+.menu ul:hover{
+    background: #C0C0C0;
+}
+
+.menu h3:hover{
+    background: #C0C0C0;
+}
+
+
+.homepage{
+    float: right;
+    background: white;
+    width: 40%;
+    position: relative;
+    right: 400px;
+}
+
+.homepage button {
+    padding: 3px;
+}
+.homepage2{
+    background: white;
+    float:right;
+    width: 40%;    
+    position: relative;
+    right: 390px;
+    margin: 10px;
+}
+
+.hp1{
+    background: white;
+    float: left;
+    padding: 4px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 6px;
+}
+.hp2{
+    background: blue;
+    color: white;
+    float:right;
+    padding: 4px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 6px;
+}
+.hp3{
+    background: white;
+    float: right;
+    padding: 4px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 6px;
+}
+.createapage {
+    background: green;
+    padding:2px;
+    padding-right: 5px;
+    padding-left: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+#fbuser{
+    border-radius: 50%;
+}
+
+.header-hp2{
+    float: right;
+    position: relative;
+    right: 440px;
+}
+
+.homepage2 h4{
+    color:#C0C0C0;
+}
+
+.homepage2 h3{
+    color:blue;
+}
+
+#wave{
+    position: relative;
+    left:20px;
+}
+
+.hp2-button{
+    float:left;
+    width:70%;
+    border:0px;
+}
+
+.hp2-button1{
+    float:right;
+    width:30%;
+    border:0px;
+}
+
+.comments1{
+    backgroundcolor:#C0C0C0;
+}
+
+.comments1 a{
+    float:left;
+    position: relative;
+    font-size: 12px;
+}
+
+
+.most-relevant{
+    float:right;
+    position: relative;
+    padding-left: 10px; 
+    color:blue;
+}
+
+.links {
+    margin:5px;
+    border-radius: 2px;
+    border:3px;
+    border-color: black;    
+    color:blue;
+    font-size: 12px;
+}
